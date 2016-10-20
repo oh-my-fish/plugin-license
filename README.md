@@ -32,5 +32,5 @@ $ license mit >> LICENSE
 
 ## License
 
-[MIT](https://github.com/grvcoelho/plugin-license/blob/master/LICENSE) &copy; 2016
+[MIT](https://github.com/oh-my-fish/plugin-license/blob/master/LICENSE) &copy; 2016
 
