@@ -10,3 +10,4 @@ complete -c license -f -n "__fish_use_subcommand" -a mpl-2.0
 complete -c license -f -n "__fish_use_subcommand" -a bsd-3-clause
 complete -c license -f -n "__fish_use_subcommand" -a lgpl-3.0
 complete -c license -f -n "__fish_use_subcommand" -a lgpl-2.1
+complete -c license -f -n "__fish_use_subcommand" -a wtfpl
